@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.8;
+    
+}
+body{
+    background-color: darksalmon;
+    color: black;
+    line-height: 1.8;
+    font-size: 1rem;
+    padding: 30px;
+    border: 30px;
+    margin: 0;
+}
+/*header*/
+.webpage{
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+    padding: 30px;
+    
+}
+#name, #phone, #email{
+    margin-bottom: 10px;
+}
+input[type="text"], input[type="tel"], input[type="email"] {
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
